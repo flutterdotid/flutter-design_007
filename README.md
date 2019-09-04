@@ -1,6 +1,11 @@
-# pro_design_7
+# Food Ordering
 
-A new Flutter project.
+A Simple App for Food Ordering.
+
+# Result
+![Design 1](https://github.com/indrawow/flutter-design_007/blob/master/Design1.png)
+![Design 2](https://github.com/indrawow/flutter-design_007/blob/master/Design2.png)
+![Intro](https://github.com/indrawow/flutter-design_007/blob/master/Intro.jpg)
 
 ## Getting Started
 
